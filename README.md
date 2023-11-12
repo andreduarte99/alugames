@@ -1,4 +1,4 @@
-<h1 align="center"> Compra de ingressos </h1>
+<h1 align="center"> Aluguel de Games </h1>
 <p align="center"> 
 <img src="https://github.com/andreduarte99/alugames/assets/42449246/8a19e8e4-c0d8-43a8-9932-03d8a24174e0"/>
 
